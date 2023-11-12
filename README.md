@@ -1,2 +1,2 @@
-# HTML-CSS-ONLY-PROJECTS
-My HTML CSS only projects 
+# HTML-CSS-JAVASCRIPT-ONLY-PROJECTS
+My HTML CSS JavaScript only projects 
