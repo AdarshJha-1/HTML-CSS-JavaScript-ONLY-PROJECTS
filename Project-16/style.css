@@ -68,7 +68,11 @@ button{
     background-color: rgb(70, 70, 155);
     color: white;
     font-weight: 500;
+    transition: all .08s linear;
 }
+button:hover{
+    background-color: rgb(50, 50, 109);
+}   
 
 img{
     margin: 20px;
