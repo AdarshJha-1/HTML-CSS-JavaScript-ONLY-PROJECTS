@@ -18,9 +18,9 @@ My HTML CSS JavaScript only projects
 - Project 14 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-14
 - Project 15 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-15
 - Project 16 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-16
+- Project 17 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-17
 
-<!-- - Project 17 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-17
-- Project 18 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-18
+<!-- - - Project 18 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-18
 - Project 19 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-19
 - Project 20 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-20
 - Project 21 : https://adarshjha-1.github.io/HTML-CSS-JavaScript-ONLY-PROJECTS/Project-21 -->
