@@ -15,7 +15,7 @@ const changeWeather = () => {
         locationName.style.fontSize = "50px";
         locationName.style.textAlign = "center";
     }
-    main.style.height = '500px'
+    main.style.height = '540px'
     weatherImg.innerHTML = `<img src="${weather['current']['condition']['icon']}">`
     locationName.innerText = `${weather['location']['name']}`
     locationTemp.innerHTML = `
@@ -24,12 +24,10 @@ const changeWeather = () => {
                             `
 }
 button.addEventListener('click', () => {
-    console.log("CLICK");
     let PLACE = input.value;
     async function getWeather() {
         const response = await fetch(`https://api.weatherapi.com/v1/current.json?key=${KEY}&q=${PLACE}&aqi=no`);
         weather = await response.json();
-        console.log(weather);
         changeWeather();
     }
     getWeather();

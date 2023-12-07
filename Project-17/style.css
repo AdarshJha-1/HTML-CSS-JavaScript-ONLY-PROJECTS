@@ -65,7 +65,7 @@ body {
 }
 
 img{
-    width: 200px;
+    width: 180px;
 }
 
 #city_temp {
@@ -91,6 +91,7 @@ img{
 
     .main {
         padding: 35px 10px;
+        height: 500px;
     }
 
     #weather-img{
