@@ -61,8 +61,11 @@ body {
 }
 
 #weather-img {
-    width: 170px;
-    margin: 20px auto;
+    margin: 15px auto;
+}
+
+img{
+    width: 200px;
 }
 
 #city_temp {
@@ -76,7 +79,26 @@ body {
 #city_name {
     margin: 10px auto;
     font-size: 50px;
-    letter-spacing: 1px;
     font-weight: 600;
     color: #ffffff;
+    text-align: center;
+}
+
+@media (max-width: 500px) {
+    .container{
+        padding: 0px 15px;
+    }
+
+    .main {
+        padding: 35px 10px;
+    }
+
+    #weather-img{
+        margin: 10px auto;
+    }
+
+    img{
+        width: 160px;
+    }
+
 }

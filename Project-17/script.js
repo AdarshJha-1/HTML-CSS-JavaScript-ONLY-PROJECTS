@@ -9,8 +9,14 @@ const locationTemp = document.querySelector('#city_temp');
 let weather;
 
 const changeWeather = () => {
-    main.style.height = '590px'
-    weatherImg.innerHTML = `<img id="weather-img" src="${weather['current']['condition']['icon']}">`
+    if(`${weather['location']['name']}`.length > 13){
+        locationName.style.fontSize = "31px";
+    }else{
+        locationName.style.fontSize = "50px";
+        locationName.style.textAlign = "center";
+    }
+    main.style.height = '500px'
+    weatherImg.innerHTML = `<img src="${weather['current']['condition']['icon']}">`
     locationName.innerText = `${weather['location']['name']}`
     locationTemp.innerHTML = `
                             <span id="temp">${weather['current']['temp_c']}</span>
