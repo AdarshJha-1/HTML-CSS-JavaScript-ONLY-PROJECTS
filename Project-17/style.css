@@ -61,7 +61,7 @@ body {
 }
 
 #weather-img {
-    margin: 15px auto;
+    margin: 20px auto;
 }
 
 img{
@@ -91,7 +91,6 @@ img{
 
     .main {
         padding: 35px 10px;
-        height: 500px;
     }
 
     #weather-img{
